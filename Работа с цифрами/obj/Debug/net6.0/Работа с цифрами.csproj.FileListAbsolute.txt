@@ -1,0 +1,15 @@
+/Users/ekaterina/Desktop/Lesson_3/Работа с цифрами/bin/Debug/net6.0/Работа с цифрами
+/Users/ekaterina/Desktop/Lesson_3/Работа с цифрами/bin/Debug/net6.0/Работа с цифрами.deps.json
+/Users/ekaterina/Desktop/Lesson_3/Работа с цифрами/bin/Debug/net6.0/Работа с цифрами.runtimeconfig.json
+/Users/ekaterina/Desktop/Lesson_3/Работа с цифрами/bin/Debug/net6.0/Работа с цифрами.dll
+/Users/ekaterina/Desktop/Lesson_3/Работа с цифрами/bin/Debug/net6.0/Работа с цифрами.pdb
+/Users/ekaterina/Desktop/Lesson_3/Работа с цифрами/obj/Debug/net6.0/Работа с цифрами.csproj.AssemblyReference.cache
+/Users/ekaterina/Desktop/Lesson_3/Работа с цифрами/obj/Debug/net6.0/Работа с цифрами.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterina/Desktop/Lesson_3/Работа с цифрами/obj/Debug/net6.0/Работа с цифрами.AssemblyInfoInputs.cache
+/Users/ekaterina/Desktop/Lesson_3/Работа с цифрами/obj/Debug/net6.0/Работа с цифрами.AssemblyInfo.cs
+/Users/ekaterina/Desktop/Lesson_3/Работа с цифрами/obj/Debug/net6.0/Работа с цифрами.csproj.CoreCompileInputs.cache
+/Users/ekaterina/Desktop/Lesson_3/Работа с цифрами/obj/Debug/net6.0/Работа с цифрами.dll
+/Users/ekaterina/Desktop/Lesson_3/Работа с цифрами/obj/Debug/net6.0/refint/Работа с цифрами.dll
+/Users/ekaterina/Desktop/Lesson_3/Работа с цифрами/obj/Debug/net6.0/Работа с цифрами.pdb
+/Users/ekaterina/Desktop/Lesson_3/Работа с цифрами/obj/Debug/net6.0/Работа с цифрами.genruntimeconfig.cache
+/Users/ekaterina/Desktop/Lesson_3/Работа с цифрами/obj/Debug/net6.0/ref/Работа с цифрами.dll
